@@ -3,3 +3,6 @@ A Python script for the beatuiful [Pi2Go project](http://4tronix.co.uk/store/ind
 
 ## Yeah, but why?
 This script has been created for fun during the [mgm hackathon #01: Raspberry Pi Robot](http://www.meetup.com/de-DE/mgm-hackathon/events/228590829/) in Munich at April, 5th 2016.
+
+
+![Robot](/robot.jpg)

@@ -87,7 +87,7 @@ try:
             turnRight = False
             turnAround = False
              
-        # Check front sensor        
+        # Check front proximity sensor        
         distance1 = pi2go.getDistance()
         distance2 = pi2go.getDistance()
         # Check distance twice to avoid measuring errors that sometimes occur
